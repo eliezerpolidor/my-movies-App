@@ -1,6 +1,7 @@
 # Leer
 
-Probando Código ReactJs para esto se creo una App que busque películas incialmente en un archivo json y despues se modificara para que los busque en una App de un servidor
+.- Probando Código ReactJs para esto se creo una App que busque películas incialmente en un archivo json y despues se modificara para que los busque en una App de un servidor.\
+.- Abra el arcivo package-lock.json, para que vea las librerias y dependencias que tiene que instalar y asi poder ejecutar este proyecto.
 
 ## Available Scripts
 
