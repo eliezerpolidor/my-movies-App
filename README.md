@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Leer
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Probando Código ReactJs para esto se creo una App que busque películas incialmente en un archivo json y despues se modificara para que los busque en una App de un servidor
 
 ## Available Scripts
 
